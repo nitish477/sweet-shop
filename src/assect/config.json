@@ -17,61 +17,61 @@
       "name": "Chamcham",
       "description": "A delicious Bengali sweet made from chhena and soaked in sugar syrup.",
       "price": "₹15 per piece",
-      "imageUrl": "/images/chamcham.jpg"
+      "imageUrl": "https://cdn1.foodviva.com/static-content/food-images/bengali-recipes/cham-cham/cham-cham.jpg"
     },
     {
       "name": "Rasmalai",
       "description": "Soft paneer balls soaked in sweetened, thickened milk flavored with cardamom.",
       "price": "₹30 per piece",
-      "imageUrl": "/images/rasmalai.jpg"
+      "imageUrl": "https://www.flourandspiceblog.com/wp-content/uploads/2023/06/IMG_4450.jpg"
     },
     {
       "name": "Peda",
       "description": "A popular Indian sweet made from khoya, sugar, and flavored with cardamom and saffron.",
       "price": "₹10 per piece",
-      "imageUrl": "/images/peda.jpg"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa2xy48KUnP50aaAgdcuQj6Zpeevv5fi6Hw&s"
     },
     {
       "name": "Gulab Jamun",
       "description": "Soft, deep-fried milk balls soaked in a fragrant sugar syrup.",
       "price": "₹20 per piece",
-      "imageUrl": "/images/gulab-jamun.jpg"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgh4DGpTdfQ6JMMJM6SrDC2UpFc5jxerTjQ&s"
     },
     {
       "name": "Kaju Katli",
       "description": "A rich and delicious sweet made from cashews and sugar, garnished with edible silver foil.",
       "price": "₹25 per piece",
-      "imageUrl": "/images/kaju-katli.jpg"
+      "imageUrl": "https://holycowvegan.net/wp-content/uploads/2013/11/vegan-kaju-katli-recipe.jpg"
     },
     {
       "name": "Ladoo",
       "description": "A traditional Indian sweet made from gram flour, sugar, and ghee, shaped into balls.",
       "price": "₹12 per piece",
-      "imageUrl": "/images/ladoo.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/61jLdJ2y20L.jpg"
     },
     {
       "name": "Barfi",
       "description": "A dense, milk-based sweet made with condensed milk and sugar, often flavored with pistachio or almonds.",
       "price": "₹18 per piece",
-      "imageUrl": "/images/barfi.jpg"
+      "imageUrl": "https://untoldrecipesbynosheen.com/wp-content/uploads/2022/07/barfi-main-1-scaled.jpeg"
     },
     {
       "name": "Jalebi",
       "description": "Crispy and juicy deep-fried spirals of dough soaked in sugar syrup.",
       "price": "₹10 per piece",
-      "imageUrl": "/images/jalebi.jpg"
+      "imageUrl": "https://1.bp.blogspot.com/-7uVYsqftWXw/Xp912yKw9XI/AAAAAAAAOuY/ulO7eIrcBnM-z3QQCK4YUtUO_XDFJiwTgCLcBGAsYHQ/s1600/IMG_20200301_205037_compress36.jpg"
     },
     {
       "name": "Mysore Pak",
       "description": "A rich, sweet dish from South India made with ghee, sugar, and gram flour.",
       "price": "₹20 per piece",
-      "imageUrl": "/images/mysore-pak.jpg"
+      "imageUrl": "https://www.lalsweets.com/cdn/shop/articles/Mysore_Pak_Lal_Sweets.jpg?v=1692880374"
     },
     {
       "name": "Kalakand",
       "description": "A popular Indian sweet made from solidified, sweetened milk, garnished with nuts.",
       "price": "₹22 per piece",
-      "imageUrl": "/images/kalakand.jpg"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koderma_Kalakand.jpg"
     }
   ],
   "theme": {
